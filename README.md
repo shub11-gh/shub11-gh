@@ -16,7 +16,8 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 ### 📊 GitHub Activity
 ![Your Stats](https://github-readme-streak-stats.herokuapp.com/?user=shub11-gh&theme=tokyonight)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=dracula)
+
+<br/> ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=dracula)
 
 ---
 
