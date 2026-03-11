@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-# Hi there! I'm Shubham Jangir 👋
+#I'm Shubham Jangir 
 
 ### 🚀 Full-Stack Developer | Java & Spring Boot | Gen AI Enthusiast
 I am a 3rd-year B.Tech CSE student focused on building robust backend architectures and integrating them with modern, AI-driven frontends. I love exploring the intersection of traditional software engineering and Generative AI.
@@ -23,7 +25,9 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jangir-shubham)
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="(https://www.freepik.com/icon/linkedin_1377213#fromView=search&page=1&position=41&uuid=ce6a1e9b-f497-481c-bc3b-bd5e27b0f8e9)"/>
+</a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhamjangir1117@gmail.com)
 
 ---
