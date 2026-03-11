@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # Hi there! I'm Shubham Jangir 👋
 
 ### 🚀 Full-Stack Developer | Java & Spring Boot | Gen AI Enthusiast
@@ -16,7 +18,6 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 ### 📊 GitHub Activity
 ![Your Stats](https://github-readme-streak-stats.herokuapp.com/?user=shub11-gh&theme=tokyonight)
-
 <br/> ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=dracula)
 
 ---
