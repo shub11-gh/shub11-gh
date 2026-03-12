@@ -37,7 +37,7 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 <p align="center">
      <img src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Langs" height="170" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Langs" height="180" />
 </p>
 
 ---
