@@ -2,7 +2,7 @@
  
 # I'm Shubham Jangir 
 
-### 🚀 Full-Stack Developer | Java & Spring Boot | Gen AI Enthusiast
+### Full-Stack Developer | Java & Spring Boot | Gen AI Enthusiast
 I am a 3rd-year B.Tech CSE student focused on building robust backend architectures and integrating them with modern, AI-driven frontends. I love exploring the intersection of traditional software engineering and Generative AI.
 
 ---
