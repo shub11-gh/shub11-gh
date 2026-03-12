@@ -35,18 +35,10 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 ### GitHub Activity
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="middle">
-        <img style="margin-top: 5px" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" />
-      </td>
-      <td valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Langs" height="170" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+     <img src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Langs" height="170" />
+</p>
 
 ---
 
