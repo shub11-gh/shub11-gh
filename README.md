@@ -12,7 +12,7 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 | Category | Tech Stack |
 | :--- | :--- |
 | **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Figma](https://skillicons.dev/icons?i=figma) |
-| **Backend** | ![Java](https://skillicons.dev/icons?i=java) ![SpringBoot](https://skillicons.dev/icons?i=springboot) |
+| **Backend** | ![Java](https://skillicons.dev/icons?i=java) ![SpringBoot](https://skillicons.dev/icons?i=spring) |
 | **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
 ---
 
