@@ -38,8 +38,8 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=shub11-gh&card_height=165&theme=swift" alt="GitHub Streak" />
+      <td valign="middle">
+        <img src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" />
       </td>
       <td valign="middle">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Langs" height="170" />
