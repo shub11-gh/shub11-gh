@@ -7,22 +7,40 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 ---
 
-### 🛠 My Technical Toolkit
+### Languages & Core
 
-| Category | Tech Stack |
-| :--- | :--- |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Figma](https://skillicons.dev/icons?i=figma) |
-| **Backend** | ![Java](https://skillicons.dev/icons?i=java) ![SpringBoot](https://skillicons.dev/icons?i=spring) |
-| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,py,c,js" />
+</p>
+
+### Frameworks & UI/UX
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react,tailwind,figma" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Cloud & Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,postman,maven,vscode,eclipse" />
+</p>
+
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=radical)</br>
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=shub11-gh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shub11-gh&theme=radical)
+
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com)
 
