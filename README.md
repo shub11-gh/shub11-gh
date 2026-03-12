@@ -34,11 +34,13 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 ---
 
 ### GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=shub11-gh&theme=swift)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=swift)]
 
 ---
 
 ### Let's Connect!
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com)
 
