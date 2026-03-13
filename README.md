@@ -2,21 +2,27 @@
  
 # I'm Shubham Jangir 
 
-### Full-Stack Developer | Java & Spring Boot | AI/ML Enthusiast
-I am a 3rd-year B.Tech CSE student focused on building robust backend architectures and integrating them with modern, AI-driven frontends. I love exploring the intersection of traditional software engineering and Generative AI.
+### Full-Stack Developer | Java, Spring Boot & React | Blockchain & AI/ML Enthusiast
+Pre-final year B.Tech CSE student focused on building robust and scalable backend architectures with Java and Spring Boot, integrated with responsive React frontends and AI/ML-driven features. I love exploring the intersection of traditional software engineering and Generative AI.
 
 ---
 
 ### Languages & Core
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,py,c,js" />
+<img src="https://skillicons.dev/icons?i=c,c++,java,py" />
 </p>
 
-### Frameworks & UI/UX
+### Frontend & UI/UX
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,react,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
 </p>
 
 ### Databases
@@ -28,7 +34,13 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,postman,maven,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=aws,jenkins,git,postman,maven" />
+</p>
+
+### IDEs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm" />
 </p>
 
 ---
@@ -42,8 +54,9 @@ I am a 3rd-year B.Tech CSE student focused on building robust backend architectu
 
 ### Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1298897780013793282)
 
 ---
 *"The best way to predict the future is to build it."*
