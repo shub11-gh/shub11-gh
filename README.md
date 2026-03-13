@@ -54,17 +54,21 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 
 ### Let's Connect!
 
-<p align="left">
+<span align="left">
   <a href="mailto:hello@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</span>
+<span align="left">
   <a href="https://linkedin.com/in/user">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+</span>
+<span align="left">
   <a href="https://discordapp.com/users/user">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-</p>
+</span>
 
 ---
 *"The best way to predict the future is to build it."*
