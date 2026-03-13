@@ -10,7 +10,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Languages & Core
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,c++,java,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
 </p>
 
 ### Frontend & UI/UX
