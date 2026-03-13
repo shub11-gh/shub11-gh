@@ -54,7 +54,9 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 
 ### Let's Connect!
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham) &nbsp;&nbsp;&nbsp;&nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1298897780013793282)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com) &nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham) &nbsp;&nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1298897780013793282)
 
 ---
 *"The best way to predict the future is to build it."*
