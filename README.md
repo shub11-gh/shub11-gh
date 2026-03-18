@@ -34,7 +34,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,jenkins,git,postman,maven" />
+<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven" />
 </p>
 
 ### IDEs
