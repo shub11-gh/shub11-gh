@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C04848,100:480048&height=200&section=header&text=Hey%20Everyone!&fontSize=55&fontColor=ffffff&desc=Solving%20Real-World%20Problems%20Through%20Code.&descAlign=50&descAlignY=55&animation=fadeIn&fontAlignY=30&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=10:C04848,90:480048&height=200&section=header&text=Hey%20Everyone!&fontSize=55&fontColor=ffffff&desc=Solving%20Real-World%20Problems%20Through%20Code.&descAlign=50&descAlignY=55&animation=fadeIn&fontAlignY=30&descSize=17)
  
 # I'm Shubham Jangir 
 
