@@ -59,4 +59,4 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1298897780013793282)
 
 ---
-*"The best way to predict the future is to build it."*
+*"The obstacle is the way." – Marcus Aurelius*
