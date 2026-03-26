@@ -10,37 +10,37 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Languages & Core
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=light" />
 </p>
 
 ### Frontend & UI/UX
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=light" />
 </p>
 
 ### Backend & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,appwrite&theme=light" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 </p>
 
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven" />
+<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light" />
 </p>
 
 ### IDEs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=light" />
 </p>
 
 ---
@@ -54,9 +54,9 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 
 ### Let's Connect!
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:shubhamjangir1117@gmail.com) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jangir-shubham) &nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1298897780013793282)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:shubhamjangir1117@gmail.com) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/jangir-shubham) &nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/1298897780013793282)
 
 ---
 *"The obstacle is the way." – Marcus Aurelius*
