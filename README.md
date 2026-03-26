@@ -10,37 +10,37 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Languages & Core
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=light" />
 </p>
 
 ### Frontend & UI/UX
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=light" />
 </p>
 
 ### Backend & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=light" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 </p>
 
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite" />
+<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light" />
 </p>
 
 ### IDEs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=light" />
 </p>
 
 ---
