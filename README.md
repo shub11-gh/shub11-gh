@@ -2,7 +2,7 @@
  
 # I'm Shubham Jangir 
 
-### Full-Stack Developer | Java, Spring Boot & React | Blockchain & AI/ML Enthusiast
+### Full-Stack Developer | Java, Spring Boot & React | AI/ML Enthusiast
 Pre-final year B.Tech CSE student focused on building robust and scalable backend architectures with Java and Spring Boot, integrated with responsive React frontends and AI/ML-driven features. I love exploring the intersection of traditional software engineering and Generative AI.
 
 ---
