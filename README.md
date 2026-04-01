@@ -16,7 +16,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Frontend & UI/UX
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=light&perLine=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=light&perline=4" />
 </p>
 
 ### Backend & Frameworks
@@ -34,7 +34,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light&perLine=4" />
+<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light&perline=4" />
 </p>
 
 ### IDEs
