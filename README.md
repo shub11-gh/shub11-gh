@@ -16,7 +16,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Frontend & UI/UX
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=light&perLine=4" />
 </p>
 
 ### Backend & Frameworks
@@ -34,7 +34,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Cloud & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light&perLine=4" />
 </p>
 
 ### IDEs
@@ -47,7 +47,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 
 ### GitHub Activity
 
-| <a href="https://github.com/shub11-gh"><img align="center" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" /></a> | <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" /></a> |
+| <a href="https://github.com/shub11-gh"><img align="center" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" /></a> | <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
 ---
