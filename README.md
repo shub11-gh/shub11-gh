@@ -40,7 +40,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### IDEs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&theme=light" />
 </p>
 
 ---
