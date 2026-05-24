@@ -22,7 +22,7 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Backend & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,express,nodejs&theme=light" />
 </p>
 
 ### Databases
