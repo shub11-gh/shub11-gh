@@ -7,6 +7,8 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 📌 Actively exploring SDE / AI-ML roles — always open to connect.
 
+---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=flat](https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -65,7 +67,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ### GitHub Activity
 
-| <a href="https://github.com/shub11-gh"><img align="center" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" /></a> | <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" /></a> |
+| <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=shub11-gh&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="150"/></a> | <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&hide_border=false" alt="Top Languages" height="150"/></a> |
 | ------------- | ------------- |
 
 ---
