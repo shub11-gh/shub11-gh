@@ -67,8 +67,22 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ### GitHub Activity
 
-| <a href="https://github.com/shub11-gh"><img align="center" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" /></a> | <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" /></a> |
-| ------------- | ------------- |
+<table>
+  <tr>
+    <th colspan="2" align="center">
+      <a href="https://github.com/shub11-gh"><img align="center" src="https://streak-stats.demolab.com?user=shub11-gh&card_height=170&theme=swift" alt="GitHub Streak" height="170"/></a>
+    </th>
+  </tr>
+  
+  <tr>
+   <td align="center">
+      <a href="https://github.com/shub11-gh"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" height="170"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=shub11-gh&show_icons=true&theme=default" alt="GitHub Stats" height="170"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
