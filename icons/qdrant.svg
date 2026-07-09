@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="10" fill="#FFFFFF"/>
+  <!-- Left Face (Dark Space) -->
+  <path d="M 12 17 L 24 24 L 24 38 L 12 31 Z" fill="#1C1E2F"/>
+  <!-- Right Face (Deep Pink) -->
+  <path d="M 24 24 L 36 17 L 36 31 L 24 38 Z" fill="#991540"/>
+  <!-- Top Face (Qdrant Magenta) -->
+  <path d="M 24 10 L 36 17 L 24 24 L 12 17 Z" fill="#E42565"/>
+  <!-- Vector Data Point in Center -->
+  <circle cx="24" cy="24" r="2.5" fill="#FFFFFF"/>
+</svg>
