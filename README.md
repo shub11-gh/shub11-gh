@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=190&section=header&text=Hey%20Everyone!&fontSize=55&fontColor=ffffff&desc=A%20curious%20mind%20is%20the%20most%20powerful%20software%20you%E2%80%99ll%20ever%20install.&descAlign=50&descAlignY=53&animation=fadeIn&fontAlignY=30&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=190&section=header&text=Hey%20Everyone!&fontSize=50&fontColor=ffffff&desc=Welcome%20To%20My%20Workspace&descAlign=50&descAlignY=54&animation=fadeIn&fontAlignY=30&descSize=20)
  
 # I'm Shubham Jangir 
 
@@ -10,7 +10,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=flat](https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -84,12 +84,12 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
     </th>
   </tr>
   <tr>
-    <th align="center" valign="middle">
+    <td align="center" valign="middle">
       <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=swift" alt="Top Languages" height="170"/></a>
-    </th>
-    <th align="center" valign="middle">
+    </td>
+    <td align="center" valign="middle">
       <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=shub11-gh&show_icons=true&theme=swift" alt="GitHub Stats" height="170"/></a>
-    </th>
+    </td>
   </tr>
 </table>
 
@@ -114,4 +114,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/1298897780013793282)
 
 ---
-*"The obstacle is the way." – Marcus Aurelius*
+
+<div align="center">
+  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
+</div>
