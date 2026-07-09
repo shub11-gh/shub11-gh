@@ -8,7 +8,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 📌 Actively exploring SDE / AI-ML roles — always open to connect.
 
 <p align="center">
-<img src="[https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=flat](https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views)" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=flat](https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
