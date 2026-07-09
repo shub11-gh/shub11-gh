@@ -24,63 +24,54 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ---
 
-### Languages & Core
+### Tech Stack & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=light" />
-</p>
-
-### Frontend & UI/UX
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=light&perline=4" />
-</p>
-
-### Backend & Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,express,nodejs&theme=light" />
-</p>
-
-### AI & Agentic Frameworks
-
-<p align="left">
-  <img src="./icons/langchain.svg" height="48" alt="LangChain" />
-  <img src="./icons/langgraph.svg" height="48" alt="LangGraph" />
-  <img src="./icons/huggingface.svg" height="48" alt="Hugging Face" />
-</p>
-
-### Databases & Vector Search
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
-<img src="./icons/neo4j.svg" height="48" alt="Neo4j" />
-<img src="./icons/qdrant.svg" height="48" alt="QdrantDB" />
-</p>
-
-### Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postman,maven,appwrite&theme=light&perline=4" />
-</p>
-
-### Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,jenkins,git,docker&theme=light&perline=4" />
-</p>
-
-### Operating Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=light&perline=4" />
-</p>
-
-### IDEs
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm&theme=light" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Languages & Core</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=light&perline=4" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>Frontend & UI/UX</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap,figma&theme=light&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Backend & Frameworks</b><br><br>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,express,nodejs&theme=light&perline=4" />
+    </td>
+    <td align="center" valign="top">
+      <b>Cloud & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,jenkins,git,docker&theme=light&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Databases & Vector Search</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
+      <img src="./icons/neo4j.svg" height="48" alt="Neo4j" /><br>
+      <img src="./icons/qdrant.svg" height="48" alt="QdrantDB" />
+    </td>
+    <td align="center" valign="top">
+      <b>Development Tools & IDEs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postman,maven,appwrite,vscode,eclipse,idea,pycharm&theme=light&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>AI & Agentic Frameworks</b><br><br>
+      <img src="./icons/langchain.svg" height="48" alt="LangChain" />
+      <img src="./icons/langgraph.svg" height="48" alt="LangGraph" />
+      <img src="./icons/huggingface.svg" height="48" alt="Hugging Face" />
+    </td>
+    <td align="center" valign="top">
+      <b>Operating Systems</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,windows&theme=light&perline=4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
