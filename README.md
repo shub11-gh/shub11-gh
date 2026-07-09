@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=190&section=header&text=Hey%20Everyone!&fontSize=50&fontColor=ffffff&desc=Welcome%20To%20My%20Workspace&descAlign=50&descAlignY=54&animation=fadeIn&fontAlignY=30&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=190&section=header&text=Hey%20Everyone!&fontSize=40&fontColor=ffffff&desc=Welcome%20To%20My%20Workspace&descAlign=50&descAlignY=50&animation=fadeIn&fontAlignY=30&descSize=22)
  
 ## Hi, I'm Shubham Jangir 
 
