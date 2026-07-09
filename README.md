@@ -95,6 +95,18 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ---
 
+### Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shub11-gh/shub11-gh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shub11-gh/shub11-gh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shub11-gh/shub11-gh/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### Let's Connect!
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:shubhamjangir1117@gmail.com) &nbsp;
