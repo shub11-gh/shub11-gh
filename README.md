@@ -33,10 +33,20 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 <img src="https://skillicons.dev/icons?i=spring,hibernate,express,nodejs&theme=light" />
 </p>
 
-### Databases
+### AI & Agentic Frameworks
+
+<p align="left">
+  <img src="./icons/langchain.svg" height="48" alt="LangChain" />
+  <img src="./icons/langgraph.svg" height="48" alt="LangGraph" />
+  <img src="./icons/huggingface.svg" height="48" alt="Hugging Face" />
+</p>
+
+### Databases & Vector Search
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
+<img src="./icons/neo4j.svg" height="48" alt="Neo4j" />
+<img src="./icons/qdrant.svg" height="48" alt="QdrantDB" />
 </p>
 
 ### Development Tools
