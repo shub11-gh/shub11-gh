@@ -2,8 +2,14 @@
  
 # I'm Shubham Jangir 
 
-### Full-Stack Developer | Java, Spring Boot & React | AI/ML Enthusiast
-Pre-final year B.Tech CSE student focused on building robust and scalable backend architectures with Java and Spring Boot, integrated with responsive React frontends and AI/ML-driven features. I love exploring the intersection of traditional software engineering and Generative AI.
+### Full-Stack Developer | Java & MERN | AI/ML Enthusiast
+Building scalable backend systems with Java and Spring Boot, dynamic frontends with React, and end-to-end AI/ML pipelines — from classical ML models to fine-tuned LLMs and agentic AI workflows. Focused on the intersection of solid software engineering and applied Generative AI.
+
+📌 Actively exploring SDE / AI-ML roles — always open to connect.
+
+<p align="center">
+<img src="[https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=flat](https://komarev.com/ghpvc/?username=shub11-gh&color=D4145A&style=for-the-badge&abbreviated=true&label=Profile+Views)" alt="Profile Views" />
+</p>
 
 ---
 
@@ -28,13 +34,25 @@ Pre-final year B.Tech CSE student focused on building robust and scalable backen
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
 </p>
 
-### Cloud & Development Tools
+### Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,jenkins,git,postman,maven,appwrite&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=postman,maven,appwrite&theme=light&perline=4" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,jenkins,git,docker&theme=light&perline=4" />
+</p>
+
+### Operating Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=light&perline=4" />
 </p>
 
 ### IDEs
