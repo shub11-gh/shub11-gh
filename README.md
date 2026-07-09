@@ -15,6 +15,15 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ---
 
+### Featured Projects
+
+* **[Treco](https://github.com/shub11-gh/treco)** - A gamified green commute tracker PWA leveraging Google Maps Directions API, Groq Vision AI for zero-trust ticket verification, and MongoDB to incentivize sustainable transit choices with real-time CO₂ savings, streak rewards, and carbon debt tracking.
+* **[Blog.io](https://github.com/shub11-gh/blog.io)** - A full-stack blogging platform built with React, Appwrite, and Redux Toolkit featuring rich-text editing via TinyMCE, role-based CRUD operations, and seamless image management with cloud storage.
+* **[PDF RAG Pipeline](https://github.com/shub11-gh/pdf-rag-pipeline)** - An AI-powered document assistant utilizing LangChain, Qdrant, and Gemini embeddings to perform semantic search and deliver exact, context-backed answers.
+* **[ZetaPik](https://github.com/shub11-gh/zetapik)** - A modern, responsive full-stack e-commerce platform utilizing React, Spring Boot, and an H2 Database to deliver a seamless shopping experience with real-time cart state management and a dynamic light/dark mode UI.
+
+---
+
 ### Languages & Core
 
 <p align="left">
