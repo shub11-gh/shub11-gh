@@ -75,10 +75,10 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
   </tr>
   <tr>
     <th align="center" valign="middle">
-      <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact" alt="Top Languages" height="170"/></a>
+      <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shub11-gh&layout=compact&theme=swift" alt="Top Languages" height="170"/></a>
     </th>
     <th align="center" valign="middle">
-      <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=shub11-gh&show_icons=true&theme=default" alt="GitHub Stats" height="170"/></a>
+      <a href="https://github.com/shub11-gh"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=shub11-gh&show_icons=true&theme=swift" alt="GitHub Stats" height="170"/></a>
     </th>
   </tr>
 </table>
