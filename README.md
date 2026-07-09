@@ -50,7 +50,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
   <tr>
     <td align="center" valign="top">
       <b>Databases & Vector Search</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light&perline=4" />
       <img src="./icons/neo4j.svg" height="48" alt="Neo4j" /><br>
       <img src="./icons/qdrant.svg" height="48" alt="QdrantDB" />
     </td>
