@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=190&section=header&text=Hey%20Everyone!&fontSize=50&fontColor=ffffff&desc=Welcome%20To%20My%20Workspace&descAlign=50&descAlignY=54&animation=fadeIn&fontAlignY=30&descSize=20)
  
-# I'm Shubham Jangir 
+# Hello, I'm Shubham Jangir 
 
 ### Full-Stack Developer | Java & MERN | AI/ML Enthusiast
 Building scalable backend systems with Java and Spring Boot, dynamic frontends with React, and end-to-end AI/ML pipelines — from classical ML models to fine-tuned LLMs and agentic AI workflows. Focused on the intersection of solid software engineering and applied Generative AI.
