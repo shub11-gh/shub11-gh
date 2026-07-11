@@ -115,6 +115,4 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ---
 
-<div align="center">
-  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,100:FBB03B&height=140&section=footer&text=%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%22.&fontSize=20&fontColor=ffffff&desc=-%20Alan%20Kay&descAlign=73&descAlignY=85&animation=fadeIn&fontAlignY=68&descSize=15)
