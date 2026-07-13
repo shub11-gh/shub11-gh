@@ -2,8 +2,8 @@
  
 ## Hi, I'm Shubham Jangir 
 
-### Full-Stack Developer | Java & MERN | AI/ML Enthusiast
-Building scalable backend systems with Java and Spring Boot, dynamic frontends with React, and end-to-end AI/ML pipelines — from classical ML models to fine-tuned LLMs and agentic AI workflows. Focused on the intersection of solid software engineering and applied Generative AI.
+### Software Engineer | Full-Stack Architect | AI/ML Enthusiast
+Building scalable architectures, dynamic digital experiences, and end-to-end AI pipelines. Driven by a passion for tackling unaddressed real-world problems through innovative system design and applied Generative AI.
 
 📌 Actively exploring SDE / AI-ML roles — always open to connect.
 
@@ -109,6 +109,7 @@ Building scalable backend systems with Java and Spring Boot, dynamic frontends w
 
 ### Let's Connect!
 
+[![Resume](./icons/cv.svg)](https://link-to-your-google-drive-pdf) &nbsp;
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:shubhamjangir1117@gmail.com) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/jangir-shubham) &nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/1298897780013793282)
