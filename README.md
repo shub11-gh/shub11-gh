@@ -109,7 +109,7 @@ Building scalable architectures, dynamic digital experiences, and end-to-end AI 
 
 ### Let's Connect!
 
-[![Resume](./icons/cv.svg)](https://drive.google.com/file/d/1K6CCPMsiUAFm16mm9huRTgMMoEcA1Gu6/view?usp=drive_link) &nbsp;
+[![Resume](./icons/cv.svg)](https://drive.google.com/file/d/1ATo_PaYx1DE5ZbrfgH8JgO2Z5XD_aMzs/view?usp=drive_link) &nbsp;
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:shubhamjangir1117@gmail.com) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/jangir-shubham) &nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/1298897780013793282)
