@@ -2,10 +2,10 @@
  
 ## Hi, I'm Shubham Jangir 
 
-### Software Engineer | Full-Stack Architect | AI/ML Enthusiast
-Building scalable architectures, dynamic digital experiences, and end-to-end AI pipelines. Driven by a passion for tackling unaddressed real-world problems through innovative system design and applied Generative AI.
+### Software Engineer @ Datman | Full-Stack Architect | AI/ML Enthusiast
+Building scalable full-stack apps, dynamic digital experiences, and intelligent Agentic AI workflows. Driven by a passion for tackling complex real-world problems through innovative system design and applied Generative AI.
 
-📌 Actively exploring SDE / AI-ML roles — always open to connect.
+💼 Currently working as a Software Engineer at Datman.
 
 ---
 
