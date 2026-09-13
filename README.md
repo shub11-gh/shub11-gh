@@ -5,7 +5,7 @@
 ### Software Engineer @ Datman | Full-Stack Architect | AI/ML Enthusiast
 Building scalable full-stack apps, dynamic digital experiences, and intelligent Agentic AI workflows. Driven by a passion for tackling complex real-world problems through innovative system design and applied Generative AI.
 
-💼 Currently working as a SDE at Datman.
+💼 Currently working as a SDE-1 at Datman.
 
 ---
 
